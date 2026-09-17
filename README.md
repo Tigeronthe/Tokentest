@@ -74,7 +74,6 @@ http://localhost:3000/contract
 
 ## Screenshots
 
-Add screenshots of the app output or browser response into the [screenshots](screenshots) folder and reference them here.
 
 Example:
 
