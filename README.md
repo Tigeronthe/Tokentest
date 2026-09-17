@@ -4,7 +4,7 @@ A simple Node.js API that connects to DAI stablecoin contract and reads data fro
 
 ## Overview
 
-This project exposes a local API endpoint that fetches data such as:
+Exposes a local API endpoint that fetches data such as:
 
 - contract name
 - contract symbol
