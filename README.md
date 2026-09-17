@@ -1,6 +1,6 @@
 # TokenLab Smart Contract API
 
-A simple Node.js API that connects to Ethereum and reads data from a smart contract using ethers.js.
+A simple Node.js API that connects to DAI stablecoin contract and reads data from a smart contract using ethers.js.
 
 ## Overview
 
