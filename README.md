@@ -23,7 +23,6 @@ It reads configuration from environment variables and uses a public Ethereum RPC
 
 - [server.js](server.js) — Express API server
 - [contractConfig.js](contractConfig.js) — contract address and ABI
-- [.env](.env) — runtime configuration (do not commit this to public repos)
 - [package.json](package.json) — dependencies and start script
 - [screenshots](screenshots) — place screenshots here for GitHub preview
 
